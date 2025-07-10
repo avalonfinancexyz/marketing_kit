@@ -6,3 +6,4 @@
 - Token:
   - USDa
   - sUSDa
+- Whitepaper
